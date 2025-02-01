@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Phishing Detection System ",
+    "desc": "Phishing websites pose a significant threat to online security, tricking users into divulging sensitive information. Stacking classifiers offer a promising approach to combat this menace by combining the strengths of multiple individual classifiers.",
+    "image": "phishing",
+    "category": "website",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/sanganivenkatesh225/Phishing_detection_system-using-Hybrid-machine-learning"
+    }
+  },
+  {
+    "name": "Nammayatri Website-Clone",
+    "desc": "A responsive web application that replicates the features and design of the Nammayatri website. This project highlights my skills in HTML and CSS.",
+    "image": "nammayatri",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sanganivenkatesh225.github.io/Nammayatri_clone/",
+      "code": "https://github.com/sanganivenkatesh225/Nammayatri_clone"
+    }
+  },
+  {
+    "name": "Spotify Clone",
+    "desc": "I created a Clone of Spotify website where my training helped me model the foundation of a music streaming platform. Through this project, I was able to delve deep into front-end development, using HTML, CSS, and JavaScript.",
+    "image": "spotify",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sanganivenkatesh225.github.io/Spotify_clone/",
+      "code": "https://github.com/sanganivenkatesh225/Spotify_clone"
+    }
+  },
+  {
+    "name": "Burger Shop Dummy",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
